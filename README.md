@@ -7,10 +7,10 @@ setup
 
 ```
 git init
+git lfs install
 git remote add origin ${git_repository_url}
 git fetch
 git merge origin/main
-git lfs install
 ```
 
 clone
