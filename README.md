@@ -1,4 +1,4 @@
-# ue4-boilerplate
+# sandbox-ue4-media-framework
 boilerplate for unreal engine 4. 
 
 ## setup
