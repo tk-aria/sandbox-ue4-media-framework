@@ -1,0 +1,32 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.NativizedAssets.cpp.obj": [
+			"Blueprint_CeilingLight__pf1079297466.cpp.obj",
+			"Blueprint_Effect_Explosion__pf1079297466.cpp.obj",
+			"Blueprint_Effect_Fire__pf1079297466.cpp.obj",
+			"Blueprint_Effect_Smoke__pf1079297466.cpp.obj",
+			"Blueprint_Effect_Sparks__pf1079297466.cpp.obj",
+			"Blueprint_Effect_Steam__pf1079297466.cpp.obj",
+			"Blueprint_WallSconce__pf1079297466.cpp.obj",
+			"BP_LightStudio__pf1079297466.cpp.obj",
+			"BP_Sky_Sphere__pf1379775596.cpp.obj",
+			"HUD__pf767338258.cpp.obj",
+			"NativizedAssets.cpp.obj",
+			"NativizedAssets_Dependencies.cpp.obj"
+		],
+		"Module.NativizedAssets.gen.cpp.obj": [
+			"Blueprint_CeilingLight__pf1079297466.gen.cpp.obj",
+			"Blueprint_Effect_Explosion__pf1079297466.gen.cpp.obj",
+			"Blueprint_Effect_Fire__pf1079297466.gen.cpp.obj",
+			"Blueprint_Effect_Smoke__pf1079297466.gen.cpp.obj",
+			"Blueprint_Effect_Sparks__pf1079297466.gen.cpp.obj",
+			"Blueprint_Effect_Steam__pf1079297466.gen.cpp.obj",
+			"Blueprint_WallSconce__pf1079297466.gen.cpp.obj",
+			"BP_LightStudio__pf1079297466.gen.cpp.obj",
+			"BP_Sky_Sphere__pf1379775596.gen.cpp.obj",
+			"HUD__pf767338258.gen.cpp.obj",
+			"NativizedAssets.init.gen.cpp.obj"
+		]
+	}
+}
