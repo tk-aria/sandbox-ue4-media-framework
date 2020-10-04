@@ -1,5 +1,5 @@
 # sandbox-ue4-media-framework
-boilerplate for unreal engine 4. 
+validation for media framework about https://docs.unrealengine.com/en-US/Engine/MediaFramework/index.html
 
 ## setup
 
