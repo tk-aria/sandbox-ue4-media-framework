@@ -1,6 +1,8 @@
 # Visual Studio 2015 user specific files
 .vs/
 
+!*.cpp
+
 # Compiled Object files
 *.slo
 *.lo
@@ -67,11 +69,22 @@ Build/*/**
 Saved/*
 
 # Compiled source files for the engine to use
-Intermediate/*
+!Intermediate/Plugins/NativizedAssets/*
+Intermediate/AssetRegistryCache/*
+Intermediate/Build/*
+Intermediate/Config/*
+Intermediate/DatasmithContentTemp/*
+Intermediate/ProjectFiles/*
+Intermediate/ReimportCache/*
+Intermediate/Staging/*
 Plugins/*/Intermediate/*
+Intermediate/CachedAssetRegistry.Bin
+Intermediate/TargetInfo.json
 
 # Cache files for the editor to use
 DerivedDataCache/*
+
+Dist/
 
 ### https://raw.github.com/github/gitignore/218a941be92679ce67d0484547e3e142b2f5f6f0/Global/Windows.gitignore
 
